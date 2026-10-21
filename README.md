@@ -1,6 +1,6 @@
 # Titanic Survival Prediction: Machine Learning Benchmark
 
-This project investigates passenger survival prediction using the Kaggle Titanic dataset. The objective is to develop and evaluate binary classification models through a structured machine learning workflow, from exploratory data analysis and feature engineering to hyperparameter optimization and ensemble learning.
+This project investigates passenger survival prediction using the Kaggle Titanic dataset. The objective is to develop and evaluate binary classification models through a machine learning workflow, from exploratory data analysis and feature engineering to hyperparameter optimization and ensemble learning.
 
 The analysis compares classical machine learning algorithms, including Logistic Regression, k-Nearest Neighbor (KNN), Decision Tree, Random Forest, Extra Trees, Support Vector Machines, Gradient Boosting, XGBoost, LightGBM, and CatBoost. It also evaluates a multilayer perceptron (MLP) as a neural network benchmark.
 
